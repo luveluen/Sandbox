@@ -5,3 +5,5 @@ I will probably not delete the following line:
     I am hopeful to stay here.
 
 Let's see how this works.
+
+Added after staged.
